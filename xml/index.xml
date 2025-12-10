@@ -1,0 +1,7 @@
+<tmul type="tmul-1.0v">
+    <box border="rounded" width="50" maxwidth="70" maxheight="30">
+        <box border="double" width="20" height="20" align="left">
+        
+        </box>
+    </box>
+</tmul>
