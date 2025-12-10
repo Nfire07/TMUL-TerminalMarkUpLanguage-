@@ -1,0 +1,2144 @@
+debug 2025/12/09 22:09:36 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:09:36 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:09:36 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:09:36 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:09:36 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:09:36 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <text>
+  </text>
+</tmul>
+)
+debug 2025/12/09 22:27:21 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:27:21 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:27:21 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:27:21 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:27:21 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:27:21 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box borderforeground="#ff0000" borderbackground="#0000ff" border="rounded">
+    <text color="#00ff00" bold="true">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:27:57 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:27:57 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:27:57 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:27:57 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:27:57 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:27:57 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" borderforeground="#ff0000" borderbackground="#0000ff" width="40">
+    <text bold="true" color="#00ff00">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:28:01 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:28:01 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:28:01 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:28:01 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:28:01 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:28:01 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box width="40" border="rounded" borderforeground="#ff0000" borderbackground="#0000ff">
+    <text bold="true" color="#00ff00">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:28:47 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:28:47 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:28:47 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:28:47 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:28:47 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:28:47 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <text bold="true" color="#00ff00">
+    Ciao mondo
+  </text>
+  <text underline="true" color="#ff0000">
+    Ciao mondo
+  </text>
+  <text italic="true" color="#0000ff">
+    Ciao mondo
+  </text>
+</tmul>
+)
+debug 2025/12/09 22:28:56 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:28:56 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:28:56 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:28:56 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:28:56 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:28:56 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <text bold="true" color="#00ff00">
+    Ciao mondo
+  </text>
+  <text color="#ff0000" underline="true">
+    Ciao mondo
+  </text>
+  <text italic="true" color="#0000ff">
+    Ciao mondo
+  </text>
+</tmul>
+)
+debug 2025/12/09 22:29:46 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:29:46 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:29:46 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:29:46 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:29:46 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:29:46 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <text bold="true" color="#00ff00" background="#000000">
+    Ciao mondo
+  </text>
+  <text underline="true" color="#ff0000" background="#000000">
+    Ciao mondo
+  </text>
+  <text italic="true" color="#0000ff" background="#000000">
+    Ciao mondo
+  </text>
+</tmul>
+)
+debug 2025/12/09 22:29:53 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:29:53 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:29:53 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:29:53 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:29:53 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:29:53 
+%!(EXTRA string=<tmul type="tmul-1.0v" background="#000000">
+  <text bold="true" color="#00ff00" background="#000000">
+    Ciao mondo
+  </text>
+  <text underline="true" color="#ff0000" background="#000000">
+    Ciao mondo
+  </text>
+  <text italic="true" color="#0000ff" background="#000000">
+    Ciao mondo
+  </text>
+</tmul>
+)
+debug 2025/12/09 22:31:32 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:31:32 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:31:32 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:31:32 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:31:32 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:31:32 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" width="50" height="50">
+  </box>
+  <text background="#000000" bold="true" color="#00ff00">
+    Ciao mondo
+  </text>
+  <text underline="true" color="#ff0000" background="#000000">
+    Ciao mondo
+  </text>
+  <text italic="true" color="#0000ff" background="#000000">
+    Ciao mondo
+  </text>
+</tmul>
+)
+debug 2025/12/09 22:31:42 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:31:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:31:42 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:31:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:31:42 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:31:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" width="50" height="50">
+    Ciao
+  </box>
+  <text bold="true" color="#00ff00" background="#000000">
+    Ciao mondo
+  </text>
+  <text underline="true" color="#ff0000" background="#000000">
+    Ciao mondo
+  </text>
+  <text background="#000000" italic="true" color="#0000ff">
+    Ciao mondo
+  </text>
+</tmul>
+)
+debug 2025/12/09 22:31:50 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:31:50 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:31:50 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:31:50 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:31:50 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:31:50 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box width="50" height="50" border="rounded">
+    -
+  </box>
+  <text background="#000000" bold="true" color="#00ff00">
+    Ciao mondo
+  </text>
+  <text underline="true" color="#ff0000" background="#000000">
+    Ciao mondo
+  </text>
+  <text italic="true" color="#0000ff" background="#000000">
+    Ciao mondo
+  </text>
+</tmul>
+)
+debug 2025/12/09 22:32:02 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:32:02 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:32:02 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:32:02 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:32:02 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:32:02 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box width="50" height="20" border="rounded">
+  </box>
+  <text bold="true" color="#00ff00" background="#000000">
+    Ciao mondo
+  </text>
+  <text color="#ff0000" background="#000000" underline="true">
+    Ciao mondo
+  </text>
+  <text italic="true" color="#0000ff" background="#000000">
+    Ciao mondo
+  </text>
+</tmul>
+)
+debug 2025/12/09 22:32:06 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:32:06 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:32:06 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:32:06 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:32:06 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:32:06 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" width="50" height="20">
+    -
+  </box>
+  <text bold="true" color="#00ff00" background="#000000">
+    Ciao mondo
+  </text>
+  <text underline="true" color="#ff0000" background="#000000">
+    Ciao mondo
+  </text>
+  <text italic="true" color="#0000ff" background="#000000">
+    Ciao mondo
+  </text>
+</tmul>
+)
+debug 2025/12/09 22:32:20 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:32:20 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:32:20 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:32:20 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:32:20 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:32:20 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" width="50" height="20">
+    <text bold="true" color="#00ff00" background="#000000">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#ff0000" background="#000000">
+      Ciao mondo
+    </text>
+    <text color="#0000ff" background="#000000" italic="true">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:32:27 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:32:27 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:32:27 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:32:27 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:32:27 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:32:27 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box height="20" border="rounded" width="50">
+    - -
+    <text bold="true" color="#00ff00" background="#000000">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#ff0000" background="#000000">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#0000ff" background="#000000">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:32:34 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:32:34 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:32:34 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:32:34 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:32:34 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:32:34 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" width="50" height="20">
+    <text bold="true" color="#00ff00" background="#000000">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#ff0000" background="#000000">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#0000ff" background="#000000">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:33:28 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:33:28 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:33:28 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:33:28 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:33:28 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:33:28 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" width="50" height="20">
+    <text bold="true" color="#00ff00" background="#000000">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#ff0000" background="#000000">
+      Ciao mondo
+    </text>
+    <text background="#000000" italic="true" color="#0000ff">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:33:41 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:33:41 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:33:41 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:33:41 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:33:41 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:33:41 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" width="20" height="20">
+    <text bold="true" color="#00ff00" background="#000000">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#ff0000" background="#000000">
+      Ciao mondo
+    </text>
+    <text background="#000000" italic="true" color="#0000ff">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:33:47 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:33:47 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:33:47 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:33:47 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:33:47 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:33:47 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box height="20" border="rounded" width="20">
+    -
+    <text bold="true" color="#00ff00" background="#000000">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#ff0000" background="#000000">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#0000ff" background="#000000">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:35:26 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:35:26 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:35:26 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:35:26 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:35:26 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:35:26 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box height="20" border="rounded" width="20">
+    <text bold="true" color="#00ff00" background="#000000">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#ff0000" background="#000000">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#0000ff" background="#000000">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:35:37 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:35:37 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:35:37 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:35:37 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:35:37 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:35:37 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded">
+    <text color="#00ff00" background="#000000" bold="true">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#ff0000" background="#000000">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#0000ff" background="#000000">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:35:57 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:35:57 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:35:57 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:35:57 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:35:57 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:35:57 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded">
+    <text color="#00ff00" bold="true">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#ff0000">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#0000ff">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:36:12 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:36:12 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:36:12 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:36:12 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:36:12 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:36:12 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded">
+    <text bold="true" color="#00ff00">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#ff0000">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#c2c22c">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:36:19 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:36:19 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:36:19 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:36:19 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:36:19 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:36:19 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded">
+    <text bold="true" color="#00ff00">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#ff0000">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#c2c2c2">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:36:27 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:36:27 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:36:27 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:36:27 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:36:27 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:36:27 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded">
+    <text color="#00ff00" bold="true">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#fefefe">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#c2c2c2">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:36:47 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:36:47 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:36:47 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:36:47 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:36:47 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:36:47 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded">
+    <text bold="true" color="#a1a1a1">
+      Ciao mondo
+    </text>
+    <text color="#fefefe" underline="true">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#c2c2c2">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:37:05 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:37:05 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:37:05 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:37:05 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:37:05 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:37:05 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" width="20">
+    <text bold="true" color="#a1a1a1">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#fefefe">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#c2c2c2">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:37:20 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:37:20 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:37:20 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:37:20 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:37:20 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:37:20 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" padding="20">
+    <text bold="true" color="#a1a1a1">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#fefefe">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#c2c2c2">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:37:42 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:37:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:37:42 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:37:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:37:42 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:37:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box padding="20" paddingLeft="5" paddingRight="5" border="rounded">
+    <text bold="true" color="#a1a1a1">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#fefefe">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#c2c2c2">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:37:55 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:37:55 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:37:55 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:37:55 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:37:55 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:37:55 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+    <text bold="true" color="#a1a1a1">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#fefefe">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#c2c2c2">
+      Ciao mondo
+    </text>
+  </box>
+  <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+    <text bold="true" color="#a1a1a1">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#fefefe">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#c2c2c2">
+      Ciao mondo
+    </text>
+  </box>
+  <box padding="20" paddingLeft="5" paddingRight="5" border="rounded">
+    <text bold="true" color="#a1a1a1">
+      Ciao mondo
+    </text>
+    <text underline="true" color="#fefefe">
+      Ciao mondo
+    </text>
+    <text italic="true" color="#c2c2c2">
+      Ciao mondo
+    </text>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:38:18 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:38:18 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:38:18 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:38:18 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:38:18 Error in ./xml/index.xml: XML syntax error on line 37: element <box> closed by </tmul>
+debug 2025/12/09 22:38:18 Required valid file index.xml to continue
+debug 2025/12/09 22:38:19 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:38:19 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:38:19 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:38:19 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:38:19 Error in ./xml/index.xml: XML syntax error on line 37: element <box> closed by </tmul>
+debug 2025/12/09 22:38:19 Required valid file index.xml to continue
+debug 2025/12/09 22:38:32 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:38:32 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:38:32 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:38:32 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:38:32 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:38:32 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double">
+    <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+      <text bold="true" color="#a1a1a1">
+        Ciao mondo
+      </text>
+      <text underline="true" color="#fefefe">
+        Ciao mondo
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Ciao mondo
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+      <text bold="true" color="#a1a1a1">
+        Ciao mondo
+      </text>
+      <text underline="true" color="#fefefe">
+        Ciao mondo
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Ciao mondo
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+      <text bold="true" color="#a1a1a1">
+        Ciao mondo
+      </text>
+      <text underline="true" color="#fefefe">
+        Ciao mondo
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Ciao mondo
+      </text>
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:38:52 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:38:52 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:38:52 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:38:52 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:38:52 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:38:52 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double">
+    <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text color="#fefefe" underline="true">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:38:55 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:38:55 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:38:55 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:38:55 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:38:55 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:38:55 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double">
+    <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box paddingLeft="5" paddingRight="5" border="rounded" padding="20">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text color="#c2c2c2" italic="true">
+        Hello World!
+      </text>
+    </box>
+    <box padding="20" paddingLeft="5" paddingRight="5" border="rounded">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:39:42 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:39:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:39:42 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:39:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:39:42 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:39:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double" width="80">
+    <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+      <text color="#a1a1a1" bold="true">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text color="#c2c2c2" italic="true">
+        Hello World!
+      </text>
+    </box>
+    <box padding="20" paddingLeft="5" paddingRight="5" border="rounded">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box paddingRight="5" border="rounded" padding="20" paddingLeft="5">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:41:24 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:41:24 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:41:24 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:41:24 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:41:24 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:41:24 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double" width="80">
+    <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text color="#fefefe" underline="true">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="5" paddingRight="5">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box paddingLeft="5" paddingRight="5" border="rounded" padding="20">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+  <text>
+    Favorites Programming languages
+  </text>
+  <list>
+    <text>
+      HTML
+    </text>
+    <text>
+      CSS
+    </text>
+    <text>
+      JS
+    </text>
+    <text>
+      TUML
+    </text>
+  </list>
+</tmul>
+)
+debug 2025/12/09 22:44:42 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:44:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:44:42 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:44:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:44:42 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:44:42 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double" width="80">
+    <box paddingRight="30" border="rounded" padding="20" paddingLeft="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text color="#c2c2c2" italic="true">
+        Hello World!
+      </text>
+    </box>
+  </box>
+  <text>
+    Favorites Programming languages
+  </text>
+  <list>
+    <text>
+      HTML
+    </text>
+    <text>
+      CSS
+    </text>
+    <text>
+      JS
+    </text>
+    <text>
+      TUML
+    </text>
+  </list>
+</tmul>
+)
+debug 2025/12/09 22:44:57 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:44:57 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:44:57 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:44:57 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:44:57 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:44:57 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double" width="80">
+    <box border="rounded" padding="20" paddingLeft="40" paddingRight="40">
+      <text color="#a1a1a1" bold="true">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="40" paddingRight="40">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box paddingLeft="40" paddingRight="40" border="rounded" padding="20">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+  <text>
+    Favorites Programming languages
+  </text>
+  <list>
+    <text>
+      HTML
+    </text>
+    <text>
+      CSS
+    </text>
+    <text>
+      JS
+    </text>
+    <text>
+      TUML
+    </text>
+  </list>
+</tmul>
+)
+debug 2025/12/09 22:45:58 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:45:58 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:45:58 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:45:58 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:45:58 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:45:58 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box width="80" border="double">
+    <box border="rounded" padding="20" paddingLeft="35" paddingRight="35">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box padding="20" paddingLeft="35" paddingRight="35" border="rounded">
+      <text color="#a1a1a1" bold="true">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="35" paddingRight="35">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+  <text>
+    Favorites Programming languages
+  </text>
+  <list>
+    <text>
+      HTML
+    </text>
+    <text>
+      CSS
+    </text>
+    <text>
+      JS
+    </text>
+    <text>
+      TUML
+    </text>
+  </list>
+</tmul>
+)
+debug 2025/12/09 22:46:03 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:46:03 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:46:03 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:46:03 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:46:03 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:46:03 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double" width="80">
+    <box border="rounded" padding="20" paddingLeft="35" paddingRight="35">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="35" paddingRight="35">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="35" paddingRight="35">
+      <text color="#a1a1a1" bold="true">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+  <text>
+    Favorites Programming languages
+  </text>
+  <list>
+    <text>
+      HTML
+    </text>
+    <text>
+      CSS
+    </text>
+    <text>
+      JS
+    </text>
+    <text>
+      TUML
+    </text>
+  </list>
+</tmul>
+)
+debug 2025/12/09 22:46:15 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:46:15 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:46:15 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:46:15 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:46:15 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:46:15 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double" width="80">
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text color="#fefefe" underline="true">
+        Hello World!
+      </text>
+      <text color="#c2c2c2" italic="true">
+        Hello World!
+      </text>
+    </box>
+    <box padding="20" paddingLeft="30" paddingRight="30" border="rounded">
+      <text color="#a1a1a1" bold="true">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+  <text>
+    Favorites Programming languages
+  </text>
+  <list>
+    <text>
+      HTML
+    </text>
+    <text>
+      CSS
+    </text>
+    <text>
+      JS
+    </text>
+    <text>
+      TUML
+    </text>
+  </list>
+</tmul>
+)
+debug 2025/12/09 22:47:14 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:47:14 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:47:14 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:47:14 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:47:14 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:47:14 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double" width="80">
+    <box paddingRight="30" border="rounded" padding="20" paddingLeft="30">
+      <text bold="true" blink="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text color="#c2c2c2" italic="true">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text color="#fefefe" underline="true">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+  <text>
+    Favorites Programming languages
+  </text>
+  <list>
+    <text>
+      HTML
+    </text>
+    <text>
+      CSS
+    </text>
+    <text>
+      JS
+    </text>
+    <text>
+      TUML
+    </text>
+  </list>
+</tmul>
+)
+debug 2025/12/09 22:47:23 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:47:23 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:47:23 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:47:23 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:47:23 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:47:23 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double" width="80">
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" reverse="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+  <text>
+    Favorites Programming languages
+  </text>
+  <list>
+    <text>
+      HTML
+    </text>
+    <text>
+      CSS
+    </text>
+    <text>
+      JS
+    </text>
+    <text>
+      TUML
+    </text>
+  </list>
+</tmul>
+)
+debug 2025/12/09 22:47:33 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:47:33 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:47:33 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:47:33 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:47:33 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:47:33 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double" width="80" reverse="true">
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text color="#a1a1a1" bold="true">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text color="#c2c2c2" italic="true">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text color="#a1a1a1" bold="true">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+  <text>
+    Favorites Programming languages
+  </text>
+  <list>
+    <text>
+      HTML
+    </text>
+    <text>
+      CSS
+    </text>
+    <text>
+      JS
+    </text>
+    <text>
+      TUML
+    </text>
+  </list>
+</tmul>
+)
+debug 2025/12/09 22:48:12 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:48:12 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:48:12 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:48:12 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:48:12 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:48:12 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="double" width="80" background="#000000">
+    <box paddingRight="30" border="rounded" padding="20" paddingLeft="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+    <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+      <text bold="true" color="#a1a1a1">
+        Hello World!
+      </text>
+      <text underline="true" color="#fefefe">
+        Hello World!
+      </text>
+      <text italic="true" color="#c2c2c2">
+        Hello World!
+      </text>
+    </box>
+  </box>
+  <text>
+    Favorites Programming languages
+  </text>
+  <list>
+    <text>
+      HTML
+    </text>
+    <text>
+      CSS
+    </text>
+    <text>
+      JS
+    </text>
+    <text>
+      TUML
+    </text>
+  </list>
+</tmul>
+)
+debug 2025/12/09 22:50:08 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:50:08 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:50:08 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:50:08 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:50:08 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:50:08 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box maxwidth="100" maxheight="100">
+    <box border="double" width="80">
+      <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text underline="true" color="#fefefe">
+          Hello World!
+        </text>
+        <text italic="true" color="#c2c2c2">
+          Hello World!
+        </text>
+      </box>
+      <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text underline="true" color="#fefefe">
+          Hello World!
+        </text>
+        <text italic="true" color="#c2c2c2">
+          Hello World!
+        </text>
+      </box>
+      <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text underline="true" color="#fefefe">
+          Hello World!
+        </text>
+        <text italic="true" color="#c2c2c2">
+          Hello World!
+        </text>
+      </box>
+    </box>
+    <text>
+      Favorites Programming languages
+    </text>
+    <list>
+      <text>
+        HTML
+      </text>
+      <text>
+        CSS
+      </text>
+      <text>
+        JS
+      </text>
+      <text>
+        TUML
+      </text>
+    </list>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:50:18 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:50:18 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:50:18 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:50:18 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:50:18 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:50:18 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box maxwidth="100" maxheight="100">
+    <box border="double" width="1000">
+      <box paddingRight="30" border="rounded" padding="20" paddingLeft="30">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text underline="true" color="#fefefe">
+          Hello World!
+        </text>
+        <text italic="true" color="#c2c2c2">
+          Hello World!
+        </text>
+      </box>
+      <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text underline="true" color="#fefefe">
+          Hello World!
+        </text>
+        <text italic="true" color="#c2c2c2">
+          Hello World!
+        </text>
+      </box>
+      <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text underline="true" color="#fefefe">
+          Hello World!
+        </text>
+        <text italic="true" color="#c2c2c2">
+          Hello World!
+        </text>
+      </box>
+    </box>
+    <text>
+      Favorites Programming languages
+    </text>
+    <list>
+      <text>
+        HTML
+      </text>
+      <text>
+        CSS
+      </text>
+      <text>
+        JS
+      </text>
+      <text>
+        TUML
+      </text>
+    </list>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:50:34 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:50:34 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:50:34 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:50:34 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:50:34 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:50:34 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box maxwidth="100" maxheight="100">
+    <box border="double" maxwidth="1000">
+      <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text underline="true" color="#fefefe">
+          Hello World!
+        </text>
+        <text italic="true" color="#c2c2c2">
+          Hello World!
+        </text>
+      </box>
+      <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text underline="true" color="#fefefe">
+          Hello World!
+        </text>
+        <text italic="true" color="#c2c2c2">
+          Hello World!
+        </text>
+      </box>
+      <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text color="#fefefe" underline="true">
+          Hello World!
+        </text>
+        <text color="#c2c2c2" italic="true">
+          Hello World!
+        </text>
+      </box>
+    </box>
+    <text>
+      Favorites Programming languages
+    </text>
+    <list>
+      <text>
+        HTML
+      </text>
+      <text>
+        CSS
+      </text>
+      <text>
+        JS
+      </text>
+      <text>
+        TUML
+      </text>
+    </list>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:50:38 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:50:38 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:50:38 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:50:38 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:50:38 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:50:38 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box maxwidth="100" maxheight="100">
+    <box border="double" maxwidth="1000">
+      <box border="rounded" padding="20" paddingLeft="30" paddingRight="30">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text color="#fefefe" underline="true">
+          Hello World!
+        </text>
+        <text italic="true" color="#c2c2c2">
+          Hello World!
+        </text>
+      </box>
+      <box paddingRight="30" border="rounded" padding="20" paddingLeft="30">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text underline="true" color="#fefefe">
+          Hello World!
+        </text>
+        <text italic="true" color="#c2c2c2">
+          Hello World!
+        </text>
+      </box>
+      <box paddingLeft="30" paddingRight="30" border="rounded" padding="20">
+        <text bold="true" color="#a1a1a1">
+          Hello World!
+        </text>
+        <text underline="true" color="#fefefe">
+          Hello World!
+        </text>
+        <text italic="true" color="#c2c2c2">
+          Hello World!
+        </text>
+      </box>
+    </box>
+    <text>
+      Favorites Programming languages
+    </text>
+    <list>
+      <text>
+        HTML
+      </text>
+      <text>
+        CSS
+      </text>
+      <text>
+        JS
+      </text>
+      <text>
+        TUML
+      </text>
+    </list>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:53:35 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:53:35 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:53:35 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:53:35 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:53:35 Error in ./xml/index.xml: XML syntax error on line 5: element <box> closed by </tmul>
+debug 2025/12/09 22:53:35 Required valid file index.xml to continue
+debug 2025/12/09 22:54:06 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:54:06 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:54:06 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:54:06 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:54:06 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:54:06 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" maxwidth="150" maxheight="150">
+    <box border="double" width="50" height="50" align="center">
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:54:20 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:54:20 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:54:20 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:54:20 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:54:20 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:54:20 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box maxwidth="70" maxheight="50" border="rounded">
+    <box height="50" align="center" border="double" width="50">
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:54:29 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:54:29 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:54:29 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:54:29 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:54:29 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:54:29 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box maxheight="20" border="rounded" maxwidth="70">
+    <box align="center" border="double" width="50" height="20">
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:54:44 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:54:44 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:54:44 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:54:44 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:54:44 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:54:44 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box maxwidth="70" maxheight="30" border="rounded">
+    <box border="double" width="50" height="20" align="center">
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:55:06 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:55:06 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:55:06 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:55:06 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:55:06 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:55:06 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" maxwidth="70" maxheight="30">
+    <box border="double" width="10" height="20" align="left">
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:55:19 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:55:19 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:55:19 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:55:19 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:55:19 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:55:19 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box maxheight="30" border="rounded" minwidth="50" maxwidth="70">
+    <box width="10" height="20" align="left" border="double">
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:55:30 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:55:30 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:55:30 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:55:30 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:55:30 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:55:30 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box maxheight="30" border="rounded" width="50" maxwidth="70">
+    <box border="double" width="10" height="20" align="left">
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:55:36 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:55:36 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:55:36 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:55:36 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:55:36 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:55:36 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" width="50" maxwidth="70" maxheight="30">
+    <box border="double" width="60" height="20" align="left">
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:55:48 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:55:48 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:55:48 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:55:48 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:55:48 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:55:48 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box border="rounded" width="50" maxwidth="70" maxheight="30">
+    <box border="double" width="20" height="20" align="left">
+    </box>
+  </box>
+</tmul>
+)
+debug 2025/12/09 22:56:16 Loaded file %!(EXTRA string=example2.xml)
+debug 2025/12/09 22:56:16 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:56:16 Loaded file %!(EXTRA string=example3.xml)
+debug 2025/12/09 22:56:16 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+</tmul>
+)
+debug 2025/12/09 22:56:16 Loaded file %!(EXTRA string=index.xml)
+debug 2025/12/09 22:56:16 
+%!(EXTRA string=<tmul type="tmul-1.0v">
+  <box maxwidth="70" maxheight="30" border="rounded" width="50">
+    <box border="double" width="20" height="20" align="left">
+    </box>
+  </box>
+</tmul>
+)
